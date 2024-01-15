@@ -1,4 +1,4 @@
-# ESP8266 Lua/NodeMCU module for MAX44006 illuminance sensors
+# ESP8266 Lua/NodeMCU module for MAX44006 irradiance sensors
 
 This repository contains an ESP8266 NodeMCU Lua module (`max44006.lua`) as well
 as MQTT / HomeAssistant / InfluxDB integration example (`init.lua`) for
