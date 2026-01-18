@@ -1,8 +1,9 @@
 # ESP8266 Lua/NodeMCU module for MAX44006 irradiance sensors
 
-This repository contains an ESP8266 NodeMCU Lua module (`max44006.lua`) as well
-as MQTT / HomeAssistant / InfluxDB integration example (`init.lua`) for
-**MAX44006** irradiance sensors connected via I²C.
+[esp8266-nodemcu-max44006](https://finalrewind.org/projects/esp8266-nodemcu-max44006/)
+provides an ESP8266 NodeMCU Lua module (`max44006.lua`) as well as MQTT /
+HomeAssistant / InfluxDB integration example (`init.lua`) for **MAX44006**
+irradiance sensors connected via I²C.
 
 ## Dependencies
 
@@ -84,3 +85,11 @@ So, unless `influx_attr = ''`, it must start with a comma, e.g. `influx_attr = '
 ## Images
 
 ![](https://finalrewind.org/projects/esp8266-nodemcu-max44006/media/hass.png)
+
+## References
+
+Mirrors of the esp8266-nodemcu-max44006 repository are maintained at the following locations:
+
+* [Chaosdorf](https://chaosdorf.de/git/derf/esp8266-nodemcu-max44006)
+* [Finalrewind](https://git.finalrewind.org/derf/esp8266-nodemcu-max44006)
+* [GitHub](https://github.com/derf/esp8266-nodemcu-max44006)
